@@ -1,4 +1,4 @@
-![I am Web Developer](https://media.licdn.com/dms/image/D5616AQExCe1vE4BWOQ/profile-displaybackgroundimage-shrink_350_1400/0/1687383285932?e=1693440000&v=beta&t=CL6CMH5cLO9iQpoCsI_DV0u-3eZ1WNj6eHXgPpW_Rjc)
+![I am Web Developer]([https://media.licdn.com/dms/image/D5616AQExCe1vE4BWOQ/profile-displaybackgroundimage-shrink_350_1400/0/1687383285932?e=1693440000&v=beta&t=CL6CMH5cLO9iQpoCsI_DV0u-3eZ1WNj6eHXgPpW_Rjc](https://media.licdn.com/dms/image/D5616AQFdtRN9AM7CvA/profile-displaybackgroundimage-shrink_350_1400/0/1690634603750?e=1697068800&v=beta&t=djHjitJCG4pG9olM-D1j4bPfC-uQJ-am7EaRCQ6VFfo)
 ## Hi , I'm Shalahuddin Islam 👋
 <p>
 👑 I am Web Developer <br>
@@ -7,13 +7,13 @@
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
 
-👨‍💻 Skills & Experiance:
-✅ REACT <br>
+👨‍💻 Skills & Experiance: <br>
+✅ ReactJs <br>
 ✅ JavaScript <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind CSS / NodeJS /Express / MongoDB<br>
+✅ HTML5 / CSS3 / Bootstrap / Tailwind CSS / NodeJS /Express / MongoDB<br>
 ✅ Photoshop / Illustrator 
 
-- 🔭 I’m currently working on Youtube 
+- 🔭 I’m currently working on ReactJs Project
 - 🌱 I’m currently learning JavaScript & TypeScript
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
