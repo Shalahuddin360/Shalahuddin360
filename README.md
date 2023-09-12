@@ -14,7 +14,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ✅ Photoshop / Illustrator 
 
 - 🔭 I’m currently working on ReactJs Project
-- 🌱 I’m currently learning  TypeScript
+- 🌱 I’m currently learning  TypeScript , Nex JS and Redux
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 
